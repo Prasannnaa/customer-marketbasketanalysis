@@ -79,9 +79,8 @@ prediction = model.predict(new_data)
 print(prediction)
 ✅ Project Structure
 📁 online-retail-revenue-prediction/
-│── model.py
+│── customer.py
 │── online_retail.csv
-│── online_retail_regression_model.pkl
 │── README.md
 ✅ Future Improvements
 
